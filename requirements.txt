@@ -19,3 +19,4 @@ oauth2client
 google-search-results
 flask-cors
 markdown
+gunicorn
